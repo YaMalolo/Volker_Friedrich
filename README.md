@@ -10,3 +10,8 @@ I am an IT enthusiast looking for new challenges in the world of programming :-)
 - authentication
 
 [badges](https://www.credly.com/users/volker-friedrich.d06517e1)
+
+### Future Tech Stack
+
+- 🛠 Lang & Framework: Vue/React, Javascript
+- ⛏ Interest: crypto, Typescript
