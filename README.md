@@ -9,4 +9,4 @@ I am an IT enthusiast looking for new challenges in the world of programming :-)
 - identity 
 - authentication
 
-[badges](https://www.credly.com/badges/13e6b97b-7b30-4626-a19a-6ca588f2c117)
+[badges](https://www.credly.com/users/volker-friedrich.d06517e1)
