@@ -13,5 +13,5 @@ I'm an IT enthusiast looking for new challenges in the world of programming :-)
 
 ### Future Tech Stack
 
-- 🛠 Lang & Framework: Vue/React, Javascript
-- ⛏ Interest: crypto, Typescript
+- 🛠 Lang & Framework:  API, Javascript
+- ⛏ Interest: crypto, AI
