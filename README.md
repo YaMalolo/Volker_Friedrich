@@ -14,4 +14,4 @@ I'm an IT enthusiast looking for new challenges in the world of programming :-)
 ### Future Tech Stack
 
 - 🛠 Lang & Framework:  API, Javascript
-- ⛏ Interest: crypto, AI
+- ⛏ Interest: space, crypto, AI
